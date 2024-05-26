@@ -1,0 +1,37 @@
+.parent{
+  width: 1440px;
+  height: 1024px;
+  background-color: #DAA520;
+  display: block;
+  float: left;
+  margin-right: 5px;
+  display: flex;
+}
+.square1{
+  width: 365px;
+  height: 365px;
+  border: 1px solid #297E40;
+  border-radius: 12px;
+  background-color: #297E40;
+  margin-left: 32px;
+  margin-top: 32px;
+}
+.square2{
+  width: 365px;
+  height: 365px;
+  border: 1px solid #8E2877;
+  border-radius: 90px;
+  background-color: #8E2877;
+  margin-left: 32px;
+  margin-top: 32px;
+}
+.square3{
+  width: 365px;
+  height: 365px;
+  border: 1px solid #361BA4;
+  border-radius: 90px;
+  background-color: #361BA4;
+  margin-left: 32px;
+  margin-top: 32px;
+}
+
